@@ -91,9 +91,10 @@ npm run build
 
 ---
 
-## 📌 Live Demo
+## 🌍 Live Demo
 
-🌐 Visit **Connectiv Live Site**
+> [🌐 View Connectiv Live](https://connectiv.pages.dev)
+> *Hosted on Cloudflare Pages*
 
 ---
 
