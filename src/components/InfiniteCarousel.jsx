@@ -26,8 +26,8 @@ const InfiniteCarousel = () => {
       </div>
 
       {/* Fade edges */}
-      <div className="pointer-events-none absolute left-0 top-0 z-10 h-full w-20 bg-gradient-to-r from-[#050507] to-transparent"></div>
-      <div className="pointer-events-none absolute right-0 top-0 z-10 h-full w-20 bg-gradient-to-l from-[#050507] to-transparent"></div>
+      <div className="pointer-events-none absolute left-0 top-0 z-10 h-full w-20 bg-gradient-to-r from-[#020522] to-transparent"></div>
+      <div className="pointer-events-none absolute right-0 top-0 z-10 h-full w-20 bg-gradient-to-l from-[#020522] to-transparent"></div>
     </div>
   );
 };
