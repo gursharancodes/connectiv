@@ -67,11 +67,11 @@ const Footer = () => {
             {ourServices.services.map((service, index) => (
               <li key={index}>
                 <Link
-                  to={`/services/${service.title
-                    .replace(/\s+/g, "-")
-                    .toLowerCase()}`}
+                  to={`/services/${service.id}`}
                   className="hover:text-gray-400"
                 >
+                  {service.title}
+                </Link>
                   {service.title}
                 </Link>
               </li>
