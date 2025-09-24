@@ -72,8 +72,6 @@ const Footer = () => {
                 >
                   {service.title}
                 </Link>
-                  {service.title}
-                </Link>
               </li>
             ))}
           </ul>
